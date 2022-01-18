@@ -130,3 +130,5 @@ dmypy.json
 
 # Mine
 .idea/
+data/test.csv
+source_files/tech_matrix.npy
